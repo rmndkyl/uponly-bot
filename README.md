@@ -1,5 +1,8 @@
 # UpOnly Bot
 
+🌐 **Website:** https://uponly.space
+
+
 > Automated airdrop farming bot by **Layer Airdrop ID (LYID)**
 
 Automated bot for UpOnly Testnet — Solana Anchor program interaction, volume farming, buy/sell automation, and leaderboard grinding.
